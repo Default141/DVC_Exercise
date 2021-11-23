@@ -1,0 +1,6 @@
+[core]
+    remote = localremote2
+['remote "localremote"']
+    url = /local/remote
+['remote "localremote2"']
+    url = ../../local_remote
